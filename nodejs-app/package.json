@@ -9,7 +9,7 @@
   "author": "Alik Khilazhev",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.1",
     "pg": "^6.1.0"
   }
 }
