@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "pg": "^6.1.0"
+    "pg": "^6.4.2"
   }
 }
